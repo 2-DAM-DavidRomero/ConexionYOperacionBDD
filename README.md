@@ -1,18 +1,9 @@
-PASO 1: C ONEX IÓN C ON J DBC
-
-Basándote en los ejemplos proporcionados en GitHub, implementa los métodos necesarios
-para conectarte a la base de datos Hogwarts desde tu proyecto Java usando JDBC.
-
-Ten en cuenta que mantener las credenciales de conexión a la vista en el código es una mala
-práctica, por lo que es recomendable utilizar un fichero de propiedades para ello.
-
-
-## PASO 2: MO DELAD O DE ENT ID AD Y CONS ULTA
+## PASO 1: MODELADO DE ENTIDAD Y CONSULTA
 
 Crea una clase Java que modele la tabla **Asignatura** y, posteriormente, crea un método en una
 clase **Operaciones** que devuelta un listado de todas las asignaturas.
 
-PASO 5: OPE RA CION ES CRUD
+## PASO 2: OPERACIOES CRUD
 
 Finalmente, implementa en la clase Operaciones los siguientes métodos:
 
